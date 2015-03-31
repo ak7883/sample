@@ -1,0 +1,15 @@
+<html>
+<head>
+<script src="static/js/jquery-2.1.3.js"></script>
+<script src="static/js/cal.js"></script>
+</head>
+<title>calculator</title>
+<body>
+<input type="text" name="txt1" id="txt1">
+<input type="text" name="txt2" id="txt2">
+<input type="text" name="txt3" id="txt3">
+<button id="btn1">ADD</button> 
+<button id="btn1">SUB</button> 
+<button id="btn1">MUL</button> 
+<button id="btn1">DIV</button> 
+</body>
